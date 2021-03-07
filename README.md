@@ -1,0 +1,1 @@
+# mfjaro-updater-gui
